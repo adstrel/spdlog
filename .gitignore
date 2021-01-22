@@ -1,3 +1,7 @@
+# premake build settings
+bin/
+bin-int/
+
 # Auto generated files
 build/*
 *.slo
